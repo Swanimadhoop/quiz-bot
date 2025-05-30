@@ -1,0 +1,14 @@
+transformers
+torch
+python-telegram-bot>=20.0
+PyMuPDF
+nest_asyncio
+sentence-transformers
+faiss-cpu
+nltk
+spacy
+sentencepiece
+
+tiktoken
+protobuf
+blobfile
